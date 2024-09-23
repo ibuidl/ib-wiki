@@ -62,9 +62,7 @@ export function SetupHero(props: Props) {
               size='lg'
               variant='secondary'
               className='font-bold group max-sm:w-[100%]'>
-              <Link
-                href='https://github.com/pdsuwwz/nextjs-nextra-starter'
-                target='_blank'>
+              <Link href='https://github.com/ibuidl/ib-wiki' target='_blank'>
                 Github
                 <span className='ml-[6px] icon-[mingcute--github-line]'></span>
               </Link>

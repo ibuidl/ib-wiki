@@ -54,7 +54,7 @@ export function CustomFooter() {
           <span className='pl-[4px]'>
             Copyright © {new Date().getFullYear()}
           </span>
-          <UnderlineLink link='https://github.com/ibuidl' label='IBuidl' />
+          <UnderlineLink link='https://ibuidl.org' label='IBuidl' />
         </div>
 
         <Separator orientation='vertical' className='max-sm:hidden h-5 mx-2' />

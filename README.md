@@ -1,6 +1,6 @@
 # Ibuidl Wiki
 
-[🚀 Live Demo 在线体验](https://nextjs-nextra-starter-green.vercel.app)
+[🚀 Live Demo 在线体验](https://wiki.ibuidl.org/zh)
 
 ## 🎉 Features
 
