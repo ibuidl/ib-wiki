@@ -1,11 +1,4 @@
-# Nextjs Nextra Starter
-
-[![Deploy](https://img.shields.io/badge/passing-black?style=flat&logo=Vercel&label=Vercel&color=3bb92c&labelColor=black)](https://github.com/pdsuwwz/nextjs-nextra-starter/deployments)
-[![GitHub Workflow Status (branch)](https://img.shields.io/badge/passing-black?style=flat&label=build&color=3bb92c)](https://github.com/pdsuwwz/nextjs-nextra-starter/deployments/Production)
-[![thanks](https://badgen.net/badge/thanks/♥/pink)](https://github.com/pdsuwwz)
-[![License](https://img.shields.io/github/license/pdsuwwz/nextjs-nextra-starter?color=466fe8)](https://github.com/pdsuwwz/nextjs-nextra-starter/blob/main/LICENSE)
-
-⚡️ 快速模板 Starter Template - Next.js + Nextra + TypeScript + TailwindCSS + Shadcn UI
+# Ibuidl Wiki
 
 [🚀 Live Demo 在线体验](https://nextjs-nextra-starter-green.vercel.app)
 
@@ -28,8 +21,6 @@
 ## 运行效果
 
 ![image](https://github.com/user-attachments/assets/7bddc174-f011-4b3b-b1a8-972563bd5d6f)
-
-
 
 ## 安装和运行
 
@@ -76,7 +67,7 @@ pnpm dev
 2. 使用组件
 
 ```tsx
-import { Alert, AlertDescription, AlertTitle } from '@/components/ui/alert'
+import { Alert, AlertDescription, AlertTitle } from '@/components/ui/alert';
 
 export default function Home() {
   return (
@@ -86,8 +77,7 @@ export default function Home() {
         You can add components and dependencies to your app using the cli.
       </AlertDescription>
     </Alert>
-
-  )
+  );
 }
 ```
 

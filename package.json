@@ -1,8 +1,8 @@
 {
-  "name": "nextjs-nextra-starter",
+  "name": "IB wiki",
   "type": "module",
-  "version": "0.0.1",
-  "description": "Next.js Nextra docs starter",
+  "version": "0.0.2",
+  "description": "ibuidl for web3",
   "author": "Wisdom <pdsu.wwz@foxmail.com>",
   "license": "MIT",
   "homepage": "https://github.com/pdsuwwz/nextjs-nextra-starter#readme",

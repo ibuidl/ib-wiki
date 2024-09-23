@@ -1,76 +1,45 @@
 export default {
-  systemTitle: '🚀 My Nextra Starter',
+  systemTitle: '❤️ IBuidl Wiki',
   banner: {
-    title: '👋 Hey there! Welcome to the Next.js Starter.',
-    more: 'Check it out',
+    title: '👋 Hey there! Welcome to the IB Knowledge Wiki!',
+    more: 'Check it out'
   },
 
-  badgeTitle: 'Lightweight & Easy 🎉',
+  badgeTitle: 'Tap To Web3 Fast & Easy 🎉',
 
   featureList: [
     {
       title: 'Advanced Tech Stack',
-      description: 'Leveraging efficient React frameworks and support with Next.js, and Shadcn UI to build modern applications.',
+      description:
+        'We use the latest technology of each public chain to teach, students learn while doing hackathon and projects, you can quickly accumulate experience and web3 knowledge.'
     },
     {
-      title: 'internationalization (i18n)',
-      description: 'Built-in multi-language support for easy i18n of your application, expanding your user base.',
+      title: 'Interview 1V1 Coaching',
+      description:
+        'After each 1v1 participant enters the real-world program, Gold Headhunters help you customize your fit.'
     },
     {
-      title: 'TypeScript Safety',
-      description: 'Fully integrated with TypeScript, offering static type checking to reduce runtime errors and enhance code reliability and maintainability.',
+      title: 'Supported by Rust, Ethereum, ICP.',
+      description:
+        'IB offers several programs that can be adapted to the needs of each student.'
     },
     {
-      title: 'Iconify Icons',
-      description: 'Integrated with the Iconify icon set, offering a wide range of icons to enhance UI visual presentation.',
+      title: 'Web3 Project for Enterprise Mainnet',
+      description:
+        'After going through some series of learning, students participate in projects that are real enterprise-level projects deployed in the main network and incubated by professional organizations.'
     },
     {
-      title: 'Tailwind CSS',
-      description: 'Atomic CSS integrated with Tailwind CSS, enabling efficient design and responsive UI.',
-    },
-    {
-      title: 'Code Standards',
-      description: 'Adheres to best practices with code standards and uses ESLint for quality checks and consistency.',
-    },
-    {
-      title: 'Dark Mode',
-      description: 'Supports dark mode for an enhanced nighttime experience.',
-    },
-    {
-      title: 'Rich Components & Extensible Support',
-      description: 'Offers a range of built-in components and supports flexible custom extensions.',
-    },
-    {
-      title: 'Lightweight Design',
-      description: 'Employs a lightweight design approach, streamlining project setup to focus on content creation.',
-    },
+      title: 'SVIP Guaranteed Class',
+      description:
+        'Worried about not finding a job, IB offered an 80% refund if you could not find one.'
+    }
   ],
-  featuresDesc: 'Easily build modern applications and kickstart your development process.',
+  featuresDesc: 'Easy to learn, fast to shore.',
   faqs: [
     {
-      question: 'What frameworks and tech stack does this starter template support?',
-      answer: 'This starter template supports Next.js and Nextra, with integrated modern development technologies like Tailwind CSS, Framer Motion, and Shadcn UI components.',
-    },
-    {
-      question: 'How do I start developing with this template?',
-      answer: 'Simply clone our GitHub repository and follow the steps in the documentation to run the installation commands to get started.',
-    },
-    {
-      question: 'What types of projects is this template suitable for?',
-      answer: 'This template is ideal for building fast and efficient modern web applications, including corporate sites, personal blogs, and e-commerce platforms.',
-    },
-    {
-      question: 'How do I add or modify components in the project?',
-      answer: 'You can use the provided component library and follow the instructions in the documentation to customize and extend them to suit your specific needs.',
-    },
-    {
-      question: 'Does the template support multiple languages?',
-      answer: 'Yes, the template includes built-in internationalization (i18n) support, allowing you to easily add and manage multilingual content to expand your app\'s international user base.',
-    },
-    {
-      question: 'How can I get technical support or help?',
-      answer: 'If you encounter any issues while using the template, please contact us via GitHub @pdsuwwz.',
-    },
-  ],
-
-}
+      question: 'What is IBuidl?',
+      answer:
+        'The term Indie Buidl comes from Indie Hacker, and the use of buidl here is a slang term for the web3 industry, so indiebuidl can also be an independent developer in the web3 industry, they are a group of remote workers who have their own craft and can earn by participating in the hackathon, and at the same time, they may be a contributor to the open-source public chain or project, so indiebuidl is a group of creative, independent thinkers.'
+    }
+  ]
+};
